@@ -1,2 +1,2 @@
 # ciafwywcoc
-Contribute In any Fucking Way You Want COde Of Conduct. The WTFPL of COCs.
+Contribute In any Fucking Way You Want Code Of Conduct. The WTFPL of COCs.
